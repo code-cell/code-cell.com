@@ -1,0 +1,8 @@
+= content header
+  img.logo src="/img/logo.svg"
+  h1 Code Cell
+
+= content main
+
+= content footer
+  p © Code Cell S.L. 2018

@@ -1,5 +1,5 @@
 theme="code-cell"
-baseurl = "http://localhost:1414/"
+baseurl = "https://www.code-cell.com/"
 languageCode = "en-us"
 title = "Code Cell"
 
