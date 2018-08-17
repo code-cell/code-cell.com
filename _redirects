@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://keen-stallman-08ac01.netlify.com/* https://www.code-cell.com/:splat 301!
