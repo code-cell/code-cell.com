@@ -11,16 +11,15 @@ html lang={{.Site.LanguageCode}}
 
     {{ $style := resources.Get "sass/main.sass" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
     link href="{{ $style.Permalink }}" rel="stylesheet"
+    link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet"
 
   body
-    .grid-x 
-      .cell.text-center
-        header
-          = yield header
-        main
-          = yield main
-        footer
-          = yield footer
+    header
+      = yield header
+    main
+      = yield main
+    footer
+      = yield footer
 
   script src="/js/jquery.min.js"
   script src="/js/what-input.min.js"

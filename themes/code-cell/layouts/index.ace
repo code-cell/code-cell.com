@@ -1,8 +1,33 @@
 = content header
-  img.logo src="/img/logo.svg"
-  h1 Code Cell
+  .grid-x.grid-padding-x.align-center-middle.text-center
+    .cell
+      img.logo src="/img/logo.svg"
+      h1 Code Cell
 
 = content main
+  section#who
+    h2 Who are we?
+    p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+  section.grid-x#clients
+    .cell
+      h2 Clients
+    .cell
+      .grid-x.grid-padding-x.align-center-middle.text-center
+        .cell.small-12.medium-8.large-5.grid-x
+          .cell.small-12.medium-6
+            a href="https://www.endian.io" target="_blank"
+              img src="/img/endian.png"
+              h3 Endian
+          .cell.small-12.medium-6
+            a href="https://www.kowala.tech/" target="_blank"
+              img src="/img/kowala.svg"
+              h3 Kowala
 
 = content footer
-  p © Code Cell S.L. 2018
+  .grid-x.grid-padding-x.align-center-middle.text-center
+    .cell
+      | Contact us at 
+      a href=mailto:admin@code-cell.com admin@code-cell.com 
+    .cell
+      | © Code Cell S.L. 2018
