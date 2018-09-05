@@ -5,6 +5,9 @@
 img.logo
   width: 5em
   height: 5em
+  @include breakpoint(small only)
+    width: 3em
+    height: 3em
 
 a
   color: rgb(100%,65.899658%,0%)
@@ -25,7 +28,10 @@ header
     display: inline
     vertical-align: middle
     margin-left: 20px
-
+    white-space: nowrap
+    @include breakpoint(small only)
+      font-size: 3em
+      
 section
   padding: 50px
 
