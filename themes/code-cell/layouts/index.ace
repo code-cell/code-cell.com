@@ -14,15 +14,19 @@
       h2 Clients
     .cell
       .grid-x.grid-padding-x.align-center-middle.text-center
-        .cell.small-12.medium-8.large-5.grid-x
-          .cell.small-12.medium-6
+        .cell.small-12.medium-8.grid-x
+          .cell.small-12.medium-6.large-4
             a href="https://www.endian.io" target="_blank"
               img src="/img/endian.png"
               h3 Endian
-          .cell.small-12.medium-6
-            a href="https://www.kowala.tech/" target="_blank"
+          .cell.small-12.medium-6.large-4
+            a href="https://www.kowala.tech" target="_blank"
               img src="/img/kowala.svg"
               h3 Kowala
+          .cell.small-12.medium-6.large-4
+            a href="https://flavor.co/" target="_blank"
+              img src="/img/flavor.svg"
+              h3 Flavor
 
 = content footer
   .grid-x.grid-padding-x.align-center-middle.text-center
