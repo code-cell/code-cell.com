@@ -1,9 +1,0 @@
-theme="code-cell"
-baseurl = "https://www.code-cell.com/"
-languageCode = "en-us"
-title = "Code Cell"
-
-[params]
-
-author = "Code Cell"
-description = "Code Cell"
