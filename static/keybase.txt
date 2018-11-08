@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/acroca
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.code-cell.com
+  * I am acroca (https://keybase.io/acroca) on keybase.
+  * I have a public key ASB6dJV-oFIeVxD-nHsC0I47K6k8G4etETRcAHVMxh2cEwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207a74957ea0521e5710fe9c7b02d08e3b2ba93c1b87ad11345c00754cc61d9c130a",
+      "host": "keybase.io",
+      "kid": "01207a74957ea0521e5710fe9c7b02d08e3b2ba93c1b87ad11345c00754cc61d9c130a",
+      "uid": "f475a119bca78f12c9d68adf90b23219",
+      "username": "acroca"
+    },
+    "merkle_root": {
+      "ctime": 1541601003,
+      "hash": "20b9ae97810a4cb04d263205fa2838b36bd4c4f00f55cbb656c38946fb66031d7a2ed2ef206ed050aae27c347195bf7942de9913bd79284ebb21b1288748c791",
+      "hash_meta": "3ab677a5b635704af6c891a88fcb23886e149b2ffb697e73955a0bf48bdd14c5",
+      "seqno": 3914779
+    },
+    "service": {
+      "entropy": "hWU5eEp2j5t9OjARv69AAcM3",
+      "hostname": "www.code-cell.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.9.0"
+  },
+  "ctime": 1541601015,
+  "expire_in": 504576000,
+  "prev": "00b33403a23c3984e551a09d7b0959da61e5229194748d70928d6c9801f0f843",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgenSVfqBSHlcQ/px7AtCOOyupPBuHrRE0XAB1TMYdnBMKp3BheWxvYWTESpcCEMQgALM0A6I8OYTlUaCdewlZ2mHlIpGUdI1wko1smAHw+EPEICxk6fgj1aDIXqifqzHk7HX9uzl8HpggoHCGjEe9X06MAgHCo3NpZ8RArIZVENWyGOlNzp0BRb77F7BJf4a3UKMkUU/l5sBspwq/RqYJv3p3wksCRy7h55X1i+BpIu8NzVuigmLXRcldDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKez2e6TWDdDkk/XIyZ5MAKAELKefhstuZ4xKSoYOl5Ho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/acroca
+
+==================================================================
