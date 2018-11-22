@@ -14,6 +14,10 @@ header {
   margin: 35vh 0;
 }
 
+header.small {
+  margin: 10vh;
+}
+
 img.logo{
   width:5em;
   height:5em;
@@ -53,10 +57,23 @@ a:hover{
 section{
   padding:50px
 }
+
 #who{
   color:#fff;
   background-color:#343242;
   text-align:center
+}
+
+#legal{
+  color:#fff;
+  background-color:#343242;
+  text-align:left;
+  border-bottom: 5px solid white;
+  white-space: pre-line;
+}
+#legal p, #legal table{
+  width: 40%;
+  margin: 0 auto;
 }
 
 #clients a{
@@ -89,5 +106,9 @@ footer{
 }
 footer a{
   white-space:nowrap
+}
+
+footer .legal {
+  font-size: 0.6em;
 }
 
