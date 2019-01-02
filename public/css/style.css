@@ -2,7 +2,7 @@ body{
   color: black;  
 }
 
-h2{
+h2, h3{
   text-align:center;
   font-family:roboto mono,monospace;
   margin-bottom:30px
@@ -46,7 +46,6 @@ header h1 {
 }
 
 
-
 a{
   color:#ffa800
 }
@@ -76,6 +75,7 @@ section{
   margin: 0 auto;
 }
 
+
 #clients a{
   color:inherit
 }
@@ -86,7 +86,7 @@ section{
   vertical-align: middle;
 }
 
-#clients h3{
+#clients h4{
   display:inline;
   vertical-align:middle;
   margin-left:5px;
